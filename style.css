@@ -1,0 +1,14 @@
+/* This is comment of external css */
+h3{
+    color: blueviolet;
+}
+
+.paragraph{
+    text-decoration: solid;
+    color: rgb(16, 4, 43);
+}
+
+#idcs{
+    color: brown;
+    text-overflow: inherit;
+}
